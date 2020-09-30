@@ -1,0 +1,268 @@
+* {
+	padding:0;
+	margin:0;
+}
+.div-header{
+  direction: ltr;
+  font-size: 1.5vw;
+}
+button
+{ 
+    padding: 0px;
+    margin: 0px;
+}
+.but{
+    padding-left: 0px;padding-right:0px;
+}
+.but1{
+    margin-left: 2vw;
+}
+.but-add1{
+  background-color: brown;color: white; width: 105%; margin: -.97vw;margin-left: -2vw;
+}
+.but-sing{
+  background-color:white;color: brown; width:210%; margin: -5vw -2.5vw; margin-left: -3vw;
+}
+.but-log{
+  background-color: gray;color: white; width: 98%; margin: -4vw -15px;
+}
+.lang-flag-div{ margin:-.5px 3px;}
+#lang{
+   margin:-.35vw -3vw ;float: left; width: 5vw;height: 6.5vh; background-color: rgb(245, 241, 241);margin-top: -1px;
+}
+#flag{
+  width:5vw ; height:5.4vh ; margin:-.35vw 2.27vw;
+}
+.searchbut
+{
+    width:90%; margin-left:2vw; padding:3px; background-color: brown; color: white;
+}
+.search-box{
+  width: 110%; padding:.25vw;
+}
+#cities1{
+  width:75%; height:5vh; direction: rtl;margin-left:-.7vw; margin-top:1px;
+}
+.menus{
+    background-color: black;opacity: .8; width: 100%; margin: 10px; margin-top:-10px; margin-right: -80px; padding: 10px;
+}
+.sildebut{
+    width:15vw; color: darkcyan; font-size:2.5vw;padding:-.5vw; border-radius: 12px;
+    margin-left: 60vw;height:5vw;
+}
+.imgslid {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(43, 121, 151);
+    opacity: 1;
+    height: 100vh;
+    max-height: 50vh; 
+    background-position-y: 50px;
+  }
+  .imag1{
+    background-image: url("../img/silder.jpg");
+    background-position-x: left;
+    background-position-y: 2px;  
+    background-size: 100% 99%;
+  }
+  .imag2{
+    background-image: url("../img/silder.jpg");
+    background-position-x: left;
+    background-position-y: 2px;  
+    background-size: 100% 99%;} 
+  .imag3{
+    background-image: url("../img/silder.jpg");
+    background-position-x: left;
+    background-position-y: 2px;  
+    background-size: 100% 99%;
+  } 
+    .text-light{
+        text-align: right;
+    }
+    .par1-menu{float: right;} 
+    .part1-text{float: right; padding: 5px;}
+    .menupart1{
+        text-align: right;
+        direction: rtl;
+    }
+    body {
+        margin: 0;
+        font-size: 28px;
+      }
+      
+      .header {
+        background-color: #f1f1f1;
+        padding: 30px;
+        text-align: center;
+      }
+      
+      #navbar1 {
+        overflow:hidden;
+        background-color: rgb(5, 5, 5);
+        width: 100%;
+      }
+      
+      #navbar1 a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      #navbar1 a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      #navbar1 a.active {
+        background-color: #4CAF50;
+        color: white;
+      }
+      
+      .content {
+        padding: 16px;
+      }
+      
+      .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+      }
+      
+      .sticky + .content {
+        padding-top: 60px;
+      }
+      .menus{
+        background-color: black;   margin-top: 10px;  
+    }
+    .div-mid{
+      background-color: brown;
+      float: left;
+      width: 32vw;
+      height: 6.5vw;
+      padding-left:2vw ;
+      font-size: 3vw; color: white; text-align: center;
+    }
+    .div-con1{
+      font-size: 2vw; direction: rtl; padding:5px;
+    }
+    .div-con{
+      background-color: gainsboro;
+
+    }
+    .div-con-items{
+      background-color: white;
+      font-size: 2vw;
+      padding:.5vw 1.3vw;
+      margin: 1.5vw 1.5vw 1.5vw 1.5vw;
+    }
+    
+    .con-but-fooler1{
+      background-color: brown; margin:-.6vw ; color: white; width:3.6vw; height: 3vw;
+    } 
+    .con-but-fooler2{
+      background-color: rgb(83, 81, 81); margin:-.8vw 0vw 0vw -.9vw; color: white; width:3vw; height: 3vw;
+    }
+    .con-but-fooler3{
+      background-color: gainsboro; margin: -3.vw 0vw 0vw 0vw ;color: brown;width:8vw ; height: 3vw;float:left;margin-left:7.5vw ;margin-top:-3vw ;
+    }
+    .text-div-but1{
+      font-size: 3.vw; color: white; background-color: rgb(180, 32, 156); text-align: center;
+    }
+    .text-div-but2{
+      font-size: 1.vw; color: white; background-color: rgb(199, 38, 177);text-align: center;
+    }
+    .text-div-but3{
+      font-size: 1.vw; color: white; background-color: black;text-align: center;
+    }
+    .but-cont{
+      background-color: brown; color: white;font-size: large; margin-left: 40vw;
+    }
+    .footer-cont{
+      font-size: 1.5vw; text-align: center;background-image: url("../img/footer3.png");background-repeat: no-repeat;background-size: 150% 99%;
+
+    }
+
+    
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+
+/* Set a style for all buttons */
+
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* style of silder2*/
+.col-md-2{
+  display: inline-block;
+  margin-left:-3px;
+  height: 40vwvw;
+}
+.col-md-2 img{
+  width:90%;
+  height:8vw;
+}
+body .carousel-indicators li{
+  background-color:white;
+}
+body .carousel-control-prev-icon,
+body .carousel-control-next-icon{
+  background-color:black;
+}
+body .no-padding{
+  padding-left: 0;
+  padding-right: 0;
+}
+.carousel-item-div{
+    background-color: white;
+    padding:.5vw;
+    margin-top: 5vw;
+    margin:.3vw;
+    border-radius:4px;
+    font-size: 1vw;
+    text-align: center;
+}
